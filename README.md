@@ -11,3 +11,6 @@ Purpose is learning of GIT
 Can be easily deployed even in local File System or on any Server.
 
 ## How to Contribute
+
+
+2014 GIT training COPYRIGHT
