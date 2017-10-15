@@ -1,4 +1,5 @@
 # Starter Web Repo
+This is sample project to get started with GIT
 
 ## Introduction
 
