@@ -2,6 +2,7 @@
 Sample project to learn GIT
 
 ## Introduction
+Sample web project
 
 ## Purpose
 
