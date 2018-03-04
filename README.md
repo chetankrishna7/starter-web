@@ -5,8 +5,10 @@ Sample project to learn GIT
 Sample web project
 
 ## Purpose
+I dont know, may be learning 
 
 ## Deployment
+Try it on your own :P
 
 ## How to Contribute
 
