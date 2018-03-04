@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chetan Krishna -- Software Engineer -- iamchetankrishna@gmail.com
 
 # THANKS
 
