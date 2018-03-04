@@ -11,5 +11,6 @@ I dont know, may be learning
 Try it on your own :P
 
 ## How to Contribute
+Please fork this repo
 
 2017 GIT training COPYRIGHT
